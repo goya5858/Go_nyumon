@@ -1,3 +1,12 @@
 session4/test.log
 session9/*.mod
 session9/*.sum
+
+atcoder/*
+!atcoder/*.cpp
+!atcoder/*.go
+
+*/*.mod
+*/*.sum
+
+ti/titanic/*
